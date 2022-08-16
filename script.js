@@ -103,3 +103,4 @@ Observações: ${textArea.value}`;
   main.appendChild(newForm);
   newForm.style.display = 'none';
 });
+ 
