@@ -1,6 +1,6 @@
 # Boas-vindas ao repositório do projeto Trybewarts Wizarding School! 🧙
 
-###Quarto projeto realizado no módulo de Fundamentos da Trybe - Primeiro projeto em grupo
+### Quarto projeto realizado no módulo de Fundamentos da Trybe - Primeiro projeto em grupo
 
 <details>
   <summary><strong>🧑‍💻 O que deverá ser desenvolvido</strong></summary><br />
